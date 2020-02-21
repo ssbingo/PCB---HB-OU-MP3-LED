@@ -1,0 +1,20 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.0.2)-1*
+G04 #@! TF.CreationDate,2019-03-05T23:40:05+01:00*
+G04 #@! TF.ProjectId,HB-OU-MP3-LED_PCB,48422d4f-552d-44d5-9033-2d4c45445f50,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Profile,NP*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.0.2)-1) date 05.03.2019 23:40:05*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,0.150000*%
+G04 APERTURE END LIST*
+D10*
+X174000001Y-100000000D02*
+G75*
+G03X174000001Y-100000000I-32249031J0D01*
+G01*
+M02*
