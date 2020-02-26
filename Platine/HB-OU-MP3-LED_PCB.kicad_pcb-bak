@@ -15,8 +15,6 @@
     (date 2020-02-01)
     (rev V2.1.3)
     (comment 1 "©S. Sternitzke")
-    (comment 2 "https://github.com/jp112sdl/HB-OU-MP3-LED  by Jérôme")
-    (comment 3 "Vorlage von:")
   )
 
   (layers

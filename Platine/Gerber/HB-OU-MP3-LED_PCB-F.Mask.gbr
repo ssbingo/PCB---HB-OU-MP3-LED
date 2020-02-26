@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.0.2)-1*
-G04 #@! TF.CreationDate,2019-03-05T23:40:05+01:00*
-G04 #@! TF.ProjectId,HB-OU-MP3-LED_PCB,48422d4f-552d-44d5-9033-2d4c45445f50,rev?*
+G04 #@! TF.CreationDate,2020-02-26T09:59:23+01:00*
+G04 #@! TF.ProjectId,HB-OU-MP3-LED_PCB,48422d4f-552d-44d5-9033-2d4c45445f50,V2.1.3*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Soldermask,Top*
 G04 #@! TF.FilePolarity,Negative*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.0.2)-1) date 05.03.2019 23:40:05*
+G04 Created by KiCad (PCBNEW (5.0.2)-1) date 26.02.2020 09:59:23*
 %MOMM*%
 %LPD*%
 G01*
